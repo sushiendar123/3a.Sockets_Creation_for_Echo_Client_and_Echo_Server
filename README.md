@@ -48,9 +48,9 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 ```
 
 ## OUTPUT
-![image](https://github.com/sushiendar123/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/169825800/ac42257e-f0d4-4afa-839f-14967bc943bd)
+![image](https://github.com/sushiendar123/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/169825800/22cbd48c-73eb-4542-b516-e99b636a20f2)
+![image](https://github.com/sushiendar123/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/169825800/89e9448e-4594-43c7-9aac-b82a6b1b609d)
 
-![image](https://github.com/sushiendar123/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/169825800/327ebd21-4b85-47db-b412-448fea29ab17)
 
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
